@@ -1,4 +1,4 @@
-## Welcome to AVArcher Projects Page
+## Welcome to AVArcher Github Page
 
 You can use the [editor on GitHub](https://github.com/avarcher/avarcher.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
